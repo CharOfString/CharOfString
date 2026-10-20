@@ -11,5 +11,4 @@ Welcome to my GitHub page!!
 Currently I am...
 * A student at University of Minnesota Twin Cities.
 * The maintainer of [GXDE OS](https://gxde.top).
-* Now porting GXDE to @evernightvista!!
-* 
+* Now porting GXDE to [Evernight Vista](https://github.com/evernightvista)!!
